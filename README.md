@@ -1,7 +1,7 @@
 # Inheritance
 
 <b>Rule 1:</b><br>
-In C#, the parent classes constructor must be accessible to the child class; otherwise, the inheritance would not be possible because when we create the child class object, first it goes and **calls the parent class constructor** so that the parent class variable will be initialized and we can consume them under the child class.
+In C#, the parent classes constructor must be accessible to the child class; otherwise, the inheritance would not be possible because when we create the child class object, first it goes and ***calls the parent class constructor*** so that the parent class variable will be initialized and we can consume them under the child class.
 
 <b>Rule 2:</b><br>
 In inheritance, the child class can access the parent class members, but the <b>parent classes</b> can <b>never access</b> any members that are <b>purely defined in the child class</b>.
