@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\bin\Debug\net8.0\UseOfBaseKeyword.exe
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\bin\Debug\net8.0\UseOfBaseKeyword.deps.json
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\bin\Debug\net8.0\UseOfBaseKeyword.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\bin\Debug\net8.0\UseOfBaseKeyword.dll
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\bin\Debug\net8.0\UseOfBaseKeyword.pdb
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.sourcelink.json
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.dll
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\refint\UseOfBaseKeyword.dll
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.pdb
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\UseOfBaseKeyword.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Inheritance\UseOfBaseKeyword\UseOfBaseKeyword\obj\Debug\net8.0\ref\UseOfBaseKeyword.dll
