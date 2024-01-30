@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\bin\Debug\net8.0\IsAAndHasA.exe
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\bin\Debug\net8.0\IsAAndHasA.deps.json
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\bin\Debug\net8.0\IsAAndHasA.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\bin\Debug\net8.0\IsAAndHasA.dll
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\bin\Debug\net8.0\IsAAndHasA.pdb
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.sourcelink.json
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.dll
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\refint\IsAAndHasA.dll
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.pdb
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\IsAAndHasA.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Inheritance\IsAAndHasA\IsAAndHasA\obj\Debug\net8.0\ref\IsAAndHasA.dll
